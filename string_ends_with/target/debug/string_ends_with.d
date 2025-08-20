@@ -1,1 +1,0 @@
-C:\Users\joshr\OneDrive\Documents\Projects\Competitive\ Programming\Codewars\string_ends_with\target\debug\string_ends_with.exe: C:\Users\joshr\OneDrive\Documents\Projects\Competitive\ Programming\Codewars\string_ends_with\src\main.rs

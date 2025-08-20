@@ -1,0 +1,1 @@
+C:\Users\joshr\OneDrive\Documents\Projects\Competitive\ Programming\Codewars\find_the_divisors\target\debug\find_the_divisors.exe: C:\Users\joshr\OneDrive\Documents\Projects\Competitive\ Programming\Codewars\find_the_divisors\src\main.rs
